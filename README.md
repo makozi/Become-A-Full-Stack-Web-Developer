@@ -100,6 +100,8 @@ More free resources can be found on [codeburst.io](https://codeburst.io)
 * [HTML5 Full Tutorial - w3schools](https://www.w3schools.com/html/)
 * [HTML5 Tutorial PDF DOWNLOAD - tutorialspoint](https://www.tutorialspoint.com/html5/html5_tutorial.pdf)
 * [Learn HTML series - Code The Web](https://codetheweb.blog/learn/html/)
+* [Intro to HTML and CSS](https://www.udacity.com/course/intro-to-html-and-css--ud304)
+
 
 ---
 ### Learn CSS
@@ -146,6 +148,7 @@ More free resources can be found on [codeburst.io](https://codeburst.io)
   * [JavaScript — What’s the difference between Null & Undefined?](https://codeburst.io/javascript-whats-the-difference-between-null-undefined-37793b5bfce6)
   * [Learn and Understand Recursion in JavaScript](https://codeburst.io/learn-and-understand-recursion-in-javascript-b588218e87ea)
   * [Understand Closures in JavaScript](https://codeburst.io/understand-closures-in-javascript-d07852fa51e7)
+  * [JavaScript Basics](https://www.udacity.com/course/javascript-basics--ud804)
 
 * Projects
   * [JS 30 For 30 - 30 Projects for 30 Days](https://javascript30.com/)
